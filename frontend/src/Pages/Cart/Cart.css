@@ -45,7 +45,7 @@
 }
 .cart-promocode {
   flex: 1;
-  width: 200px;
+  width: 250px;
 }
 .cart-promocode p {
   color: #555;
@@ -57,7 +57,7 @@
   align-items: center;
   background-color: #eaeaea;
   border-radius: 4px;
-  width: 230px;
+ 
 }
 .cart-promocode-input input {
   background: transparent;
