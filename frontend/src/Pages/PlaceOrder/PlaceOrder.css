@@ -38,9 +38,9 @@
     margin-top: 30px;
 }
 
-@media (max-width: 1000px) {
-    .place-order-left{
-       z-index: 1;
+@media (max-width: 590px) {
+  .place-order{
+    display: block;
   }
   
     
