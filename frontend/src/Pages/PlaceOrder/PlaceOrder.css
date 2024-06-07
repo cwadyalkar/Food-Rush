@@ -37,3 +37,11 @@
 .place-order .cart-total button{
     margin-top: 30px;
 }
+
+@media (max-width: 1000px) {
+    .place-order-left{
+       flex: 1;
+  }
+  
+    
+}
