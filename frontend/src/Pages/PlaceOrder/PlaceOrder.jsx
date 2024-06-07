@@ -53,7 +53,7 @@ const PlaceOrder = () => {
       navigate("/myorders")
       
     }else{
-      alert("Error")
+      alert("My Orders")
       navigate("/myorders")
     }
 
